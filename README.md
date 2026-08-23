@@ -1,6 +1,6 @@
 # O O M A - Offline Order management App
 
-O O M A is a local-first order and payment manager for Android, iOS, and the web. Users can create an account on the device, manage saved card names and mobile numbers, record customer orders, and track automatic and manual payment records.
+O O M A is a order and payment information manager for Android, iOS, and the web. Users can create an account on the device, manage saved card names and mobile numbers, record customer orders, and track automatic and manual payment records.
 
 The current project is an **Expo React Native application**, not a traditional MERN application. It does not currently contain an Express server, MongoDB database, or separate Node.js API. Application data is stored locally with SQLite on each device.
 
